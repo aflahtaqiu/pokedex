@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="@dimen/dimen_200dp"
+        android:layout_height="@dimen/dimen_200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_80dp"
+        android:src="@drawable/ic_no_internet" />
+
+    <TextView
+        style="@style/Heading2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/dimen_24dp"
+        android:text="@string/title_no_internet"
+        android:textAlignment="center" />
+
+    <TextView
+        style="@style/Body1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginHorizontal="@dimen/dimen_48dp"
+        android:layout_marginTop="@dimen/dimen_24dp"
+        android:text="@string/msg_no_internet"
+        android:textAlignment="center" />
+
+</LinearLayout>

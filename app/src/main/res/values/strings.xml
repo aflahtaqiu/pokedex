@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="action_stats">Stats</string>
+    <string name="action_evolution">Evolution</string>
+    <string name="loading">Loading</string>
+
+    <string name="msg_credit_created">by Aflah Taqiu</string>
+    <string name="msg_no_internet">Please reconnect to your Wifi or use your own internet connection :)</string>
+
+    <string name="title_no_internet">Whoops.. No Internet Connection</string>
+    <string name="title_weight">Weight</string>
+    <string name="title_height">Height</string>
+    <string name="title_stat_hp">HP</string>
+    <string name="title_stat_att">ATT</string>
+    <string name="title_stat_def">DEF</string>
+    <string name="title_stat_spd">SPD</string>
+    <string name="title_stat_exp">EXP</string>
+</resources>
